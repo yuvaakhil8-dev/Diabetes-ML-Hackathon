@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# ML environment (large local dependencies)
+ml_hackathon/
+
+# Trained models (optional - uncomment to exclude)
+# models/*.pkl
+
+# Data (download separately from Kaggle)
+# data/
+
+# OS
+.DS_Store
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
