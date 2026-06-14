@@ -1,4 +1,4 @@
-# DiabetaSense â€” Progressive Diabetes Risk Assessment Platform
+# DiabetaSense - Progressive Diabetes Risk Assessment Platform
 
 End-to-end machine learning platform for **progressive diabetes risk assessment** using the Pima Indians Diabetes Dataset. The system trains a 3-stage ML pipeline (Linear Regression â†’ Decision Tree â†’ KNN), compares models, provides explainability, and presents results through an interactive Streamlit dashboard.
 
